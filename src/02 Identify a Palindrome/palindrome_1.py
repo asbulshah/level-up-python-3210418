@@ -8,3 +8,4 @@ def is_palindrome(phrase):
 if __name__ == '__main__':
     phrase_input = input("Enter a phrase\n")
     print(is_palindrome(phrase_input))
+    
